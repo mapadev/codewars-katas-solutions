@@ -1,0 +1,22 @@
+{
+  "name": "codewars.playground",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mapadev/codewars-katas-solutions.git"
+  },
+  "author": "mapadev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mapadev/codewars-katas-solutions/issues"
+  },
+  "homepage": "https://github.com/mapadev/codewars-katas-solutions#readme",
+  "devDependencies": {
+    "jest": "^24.1.0"
+  }
+}
